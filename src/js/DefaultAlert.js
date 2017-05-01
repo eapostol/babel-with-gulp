@@ -1,4 +1,4 @@
-class FlashMessage {
+class DefaultAlert {
   constructor(message){
     this.message = message;
   }
@@ -8,4 +8,4 @@ class FlashMessage {
   }
 }
 
-export default FlashMessage;
+export default DefaultAlert;
